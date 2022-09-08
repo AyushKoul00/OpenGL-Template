@@ -7,3 +7,7 @@ This project uses [the premake website](https://premake.github.io).
 Windows project files can be built with clicking on build.bat
 
 To erase project files use clean.bat
+
+## Raytracing resources:
+http://raytracerchallenge.com/
+https://github.com/aakshintala/ray-tracer
